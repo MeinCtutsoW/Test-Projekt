@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+form {
+}
+label {
+  font-size: 18px;
+}
+input[type="text"] {
+  width: 28%;
+  padding: 4px 10px;
+  margin: 2px 0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/4743/4743186.png");
+  background-repeat: no-repeat;
+  background-position: 7px 50%;
+  background-size: 15px;
+  padding-left: 28px;
+}
+input[type="password"] {
+  width: 28%;
+  padding: 4px 10px;
+  margin: 2px 0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/3064/3064197.png");
+  background-repeat: no-repeat;
+  background-position: 7px 50%;
+  background-size: 15px;
+  padding-left: 28px;
+}
